@@ -1,0 +1,12 @@
+.\objs\cjson.o: ..\..\..\Src\App\cJSON\cJSON.c
+.\objs\cjson.o: ..\..\..\Include\Platform\wm_mem.h
+.\objs\cjson.o: ..\..\..\Include\wm_type_def.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objs\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objs\cjson.o: ..\..\..\Src\App\cJSON\cJSON.h
+.\objs\cjson.o: ..\..\..\Platform\Inc\utils.h
